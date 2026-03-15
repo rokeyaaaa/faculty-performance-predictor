@@ -26,11 +26,11 @@ Such a system can help institutions move toward more consistent and data-informe
 
 ## Technology Stack
 The implementation of this project will involve several technologies, including:
-Python for core development
-OpenCV for video and image processing
-Scikit-learn for machine learning models
-Flask for building the backend API
-HTML, CSS, and JavaScript for the web interface 
+- Python for core development
+- OpenCV for video and image processing
+- Scikit-learn for machine learning models
+- Flask for building the backend API
+- HTML, CSS, and JavaScript for the web interface 
 
 ## Future Improvements
 - Real-time classroom monitoring and analysis
